@@ -1,6 +1,6 @@
 # AulaGit
 
-# Título do Projeto
+# Objetivos
 
 Criar um app em flutter que atenda uma necessidade da comunidade. Este aplicativo deve ter os seguintes pré requisitos:
 
